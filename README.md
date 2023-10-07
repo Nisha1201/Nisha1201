@@ -1,50 +1,26 @@
-### Hi there 👋
-## Hi there 👋, I'm Ambar Rizvi
+<h1 align="left">Hi 👋, I'm Nisha Kumari Sahu</h1>
+<h3 align="center">I am a dedicated Backend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha1201&label=Profile%20views&color=0e75b6&style=flat" alt="nisha1201" /> </p>
 
+- 🔭 I’m currently working on [Education Times](https://www.educationtimes.com/)
 
-- 🔭 I’m currently working on [Project](https://onepost.sasone.in/)
-- 🌱 I’m currently learning Advanced NodeJS
-- 👯 I’m looking to collaborate on OpenSource Projects
-- ⚡ Link to my [Portfolio](https://ambarr06.pythonanywhere.com/)
+- 🌱 I’m currently learning **Django Rest Framework**
 
-<h2>Trophies:</h2>
+- 💬 Ask me about **Python,Django,Mysql**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nisha1201)](https://github.com/Ambar-06)
+- 📫 How to reach me **sahunisha1010@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
-<h2>Other Stats:</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nisha-kumari-sahu-4b931b1b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha-kumari-sahu-4b931b1b5" height="30" width="40" /></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambar-06&layout=compact\&hide=contribs,issues)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-![Ambar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambar-06&show_icons=true&theme=tokyonight)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisha1201&show_icons=true&locale=en&layout=compact" alt="nisha1201" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats-rjauq8u3l-ambar-06.vercel.app/?user=Ambar-06&theme=dark)](https://github.com/Ambar-06)
-
-  <h2>Languages and Tools:</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=python,django,nodejs,flask,javascript,fastapi,git,mysql,react,postman,vscode,github,awslambda&theme=light)](https://github.com/Ambar-06)
-  <!--
- <pre>
-<a href='https://www.python.org/' ><img src="https://github.com/Ambar-06/Ambar-06/blob/main/python-logo-only.png" alt="Python Logo" width="40" height="50"></a> &nbsp; <a href='https://www.djangoproject.com/'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/dj.png" alt="Django Logo" width="50" height="50"></a> &nbsp; <a href='https://fastapi.tiangolo.com/'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/fapi.png" alt="FastAPI Logo" width="50" height="50"></a> &nbsp; <a href='https://nodejs.org/'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/node.png" alt="Node.js Logo" width="45" height="50"></a> &nbsp; <a href='https://flask.palletsprojects.com/'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/flask.png" alt="Flask Logo" width="45" height="50"></a> &nbsp; <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/js.png" alt="JavaScript Logo" width="45" height="50"></a> &nbsp; <a href='https://git-scm.com/'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/git.png" alt="Git Logo" width="50" height="50"></a> &nbsp; <a href='https://www.mysql.com/'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/mysql.png" alt="MySQL Logo" width="50" height="50"></a> &nbsp; <a href='https://reactjs.org/'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/react.png" alt="React Logo" width="50" height="50"></a> &nbsp; <a href='https://www.postman.com/'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/postman-logo-orange-stacked.svg" alt="Postman Logo" width="40" height="50"></a> &nbsp; <a href='https://aws.amazon.com/lambda/'><img src="https://github.com/Ambar-06/Ambar-06/blob/main/lambda.png" alt="Lambda Logo" width="40" height="45"></a>
-</pre>  -->
-
-<a href='https://github.com/Ambar-06/' ><img src="https://github.com/Ambar-06/Ambar-06/blob/main/snakegame.svg" width="100%"></a> 
-
----
-[![](https://visitcount.itsvg.in/api?id=Ambar-06&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-<!--
-**Nisha1201/Nisha1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisha1201&" alt="nisha1201" /></p>

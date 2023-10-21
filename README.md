@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sahunisha1010@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+<!--- - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

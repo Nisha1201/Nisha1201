@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Nisha Kumari Sahu</h1>
 <h3>I am a dedicated Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha1201&label=Profile%20views&color=0e75b6&style=flat" alt="nisha1201" /> </p>
-
-- 🔭 I’m currently working on [Education Times](https://www.educationtimes.com/)
+- 🔭 I’m currently working on [Education Times](https://www.educationtimes.com/) and [One Post](https://onepost.sasone.in/)
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
@@ -13,14 +11,20 @@
 
 <!--- - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nisha-kumari-sahu-4b931b1b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha-kumari-sahu-4b931b1b5" height="30" width="40" /></a>
-</p>
+<h2>Other Stats:</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha1201&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisha1201&show_icons=true&locale=en&layout=compact" alt="nisha1201" /></p>
+![Nisha1201's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisha1201&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisha1201&" alt="nisha1201" /></p>
+[![GitHub Streak](https://camo.githubusercontent.com/24376e579d2a1a7a61a200e6ecbde6f680bee79e5fff8437f365481a0fba1cfb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e697368613132303126)](https://github.com/Nisha1201)
+
+<h2>Languages and Tools:</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=python,django,bootstrap,javascript,git,mysql,postman,vscode,github,awslambda&theme=light)](https://github.com/Nisha1201)
+
+<a href='https://github.com/Ambar-06/' ><img src="https://github.com/Ambar-06/Ambar-06/blob/main/snakegame.svg" width="100%"></a> 
+
+[![](https://visitcount.itsvg.in/api?id=Nisha1201&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+

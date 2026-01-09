@@ -5,7 +5,7 @@
 - 🌱 I’m currently enhancing my expertise in **Django REST Framework** and exploring **cloud/DevOps tools**.  
 - 💬 Ask me about **Python, Django, MySQL, Linux, REST APIs, and DRF**.  
 - 📫 Reach me at **sahunisha1010@gmail.com**  
-- ⚡ Check out my [Portfolio](https://nisha1201.github.io/my_resume/)  
+<!--- - ⚡ Check out my [Portfolio](https://nisha1201.github.io/my_resume/)  -->
 
 <!--- - 📄 Know more about my professional experiences [Resume](https://drive.google.com/drive/u/0/my-drive) -->
 
